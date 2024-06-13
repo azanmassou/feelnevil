@@ -1,0 +1,254 @@
+Marketing Home Personal 
+
+
+
+
+Strategie de  Marketing 
+
+    1 - Ligne Directive :
+
+        Objectifs : 
+
+            * Mon Ciriculum Vitae {{ All Format}}
+
+            * Mon PortFolio
+
+            * Mon Book Social Profial
+
+            * Mon Site Web Pro
+
+
+    2 - Audience :
+
+        Chef de Projet ...
+        Devellopeur ... 
+        Publics  .... 
+        Internaute
+
+    3 - Analitycs ...
+
+
+        * Reseaux : 
+
+            ! Page Facebook 
+            ! Page Whatsapp
+            ! Page Linkding 
+        
+        * Leviers Marketing : 
+
+            ! Owned Media 
+
+                @ Website 
+                @ Page de Reseaux 
+                @ App Mobile 
+
+            ! Paid Media 
+
+                @ Strategie Marketing 
+                @ Publicite 
+                @ Google Search 
+                
+                
+            ! Eqrned Media 
+
+                @ Publicite des influenceurs 
+                @ Article de Presse 
+                @ Commentaire 
+                @ Like 
+
+        * Localisation du Produit :
+
+            Adresse : C/796 Aidjedo Cotonou Littoral Benin
+
+        * Produit : 
+
+            Service de Devellopeur Website
+
+            Tarifs ... Mode de Paiement ... Conditions .... Marque 
+
+        * Promotion : 
+
+            Publicites ... 
+            Promotion de vente ...
+            Force de vente ...
+
+        * Les P du Marketing ...
+
+            ! Notre Relation avec le Personal ... Personal
+            ! Appropries a tout un chacun ... Personnalisation
+            ! Niveau de securite ... Physical Ecridence
+            ! Correct || Honnete ... Permission
+
+        * Strategie de L'inbounding ...
+
+            ! Reseaux social : Automatisation du Marketing
+
+            ! Creation de contenue : Marketiong Analitycs
+
+            ! Optimisation de SEO : Creation des Leads
+
+            ! Mail && Newsletter
+
+        * Tunnel de conversation :
+
+            ! Leading Page 
+            ! Page de capture
+            ! Page de vente
+            ! Commande
+            ! Remmerciement
+
+        * Packaging ...      
+
+        * Mise en avant du Produit
+
+        * Campagne de vente
+
+        * Analitycs Interne 
+
+             ! Temps de parparge 
+
+             !  Visibilite 
+
+             ! Taux de rebons
+
+
+ BRANDING - PERRSONAL BRANDING
+
+   * Branding Personal : 
+
+            ! Coherance 
+            ! Valeur ajoute 
+            ! Flexibilite 
+            ! Authenticite 
+
+
+    Gestion de Presence en ligne 
+
+    * Ligne Editorial : ( Savoir tout sur son contenue)
+
+    * Sujet : 
+        ! Media classic
+        ! Website et Blog
+        ! Forum de Discussion
+
+    * Type de contenu : 
+
+        ! Photo 
+        ! Video 
+        ! Article 
+
+    * Time de connexion : 
+
+        Heure ideal de l'Audience
+
+    * Analitycs Strategie Concurents :
+
+    * Valeurs Ajoutes
+
+    * Regle de Courtoisie
+
+    * Faire la veille 
+
+    * Guide Pratique 
+
+    * Languages et Formats 
+
+
+
+Mise en place du curriculum vitae  
+
+    1 - Information Personal
+
+        Nom : Azanmassou 
+        Prenom : Happy 
+        Date : 25 Aout 2001
+        Lieu : Cotonou
+        Adresse : C/796 Aidjedo Cotonou Littoral Benin
+        E-mail : azanmassouhappylouis@gmail.com
+        Tel : +229 90 93 86 75 
+        Profession : Devellopeur Web
+
+    2 - Formation Professionnel
+
+        CEG Ste Rita {{ sept 2020 - Sept 2021}}
+
+            Bachelor Scientifique  
+
+        CFP Savoir-Faire {{ Sept 2021 - Mars 2022 }}
+
+            Attestion de Devellopeur Website  
+
+        Freelance {{ Sept 2021 - Mars 2022 }}
+
+            Auto Formation Php Laravel 
+
+    3 - Experience Professionnel
+
+
+        Projet Personal : Mon Ciriculum Vitae
+        
+            lien : 
+
+        Projet Personal : Mon PortFolio
+
+            lien : 
+
+        Projet Personal : Mon Website
+
+            lien : 
+
+    Competences :
+
+        Html ... Css ... Php ... 
+
+        Framwork : Laravel
+     
+    4 - Loisirs :
+
+        Gaming ...   Veille ... Football ... 
+
+
+About Speech : 
+
+En tant que développeur PHP spécialisé dans le framework Laravel, je suis passionné par la création d'applications web robustes et évolutives. Fort de plusieurs années d'expérience dans le domaine du développement, j'ai acquis une expertise approfondie dans la conception et la mise en œuvre de solutions logicielles efficaces. Mon parcours professionnel m'a permis de maîtriser les meilleures pratiques de développement, tout en restant constamment à l'affût des dernières technologies et tendances du secteur.
+
+Mon approche du développement se distingue par mon engagement à fournir des solutions sur mesure qui répondent aux besoins spécifiques de chaque projet. En collaboration étroite avec mes clients, je m'efforce de comprendre pleinement leurs objectifs et leurs exigences, afin de livrer des produits finaux qui dépassent leurs attentes. Je suis convaincu que la communication transparente et la collaboration sont essentielles pour garantir la réussite de tout projet, et je m'engage à maintenir un dialogue ouvert à chaque étape du processus de développement.
+
+Outre mes compétences techniques en PHP et Laravel, je suis également passionné par l'apprentissage continu et l'amélioration constante de mes compétences. Je suis toujours à la recherche de nouvelles opportunités pour élargir mes connaissances et explorer de nouvelles technologies. Mon objectif est de rester à la pointe de l'industrie et d'apporter une valeur ajoutée à chaque projet sur lequel je travaille. Avec une solide éthique de travail et un dévouement sans faille à la qualité, je suis déterminé à contribuer au succès de mes clients et à atteindre l'excellence dans tout ce que j'entreprends.
+
+
+Skills 
+
+PHP : Maîtriser le langage PHP est essentiel, car Laravel est basé sur PHP.
+
+Laravel Framework : Comprendre en profondeur l'architecture et les fonctionnalités de Laravel, y compris le routage, les migrations, les contrôleurs, les modèles, les vues, etc.
+
+Composer : Savoir utiliser Composer pour gérer les dépendances PHP, notamment pour installer et mettre à jour Laravel et ses packages.
+
+ORM (Eloquent ORM) : Maîtriser Eloquent, l'ORM intégré de Laravel, pour interagir avec la base de données de manière simple et efficace.
+
+Base de données : Connaître les bases de données relationnelles, en particulier MySQL ou PostgreSQL, qui sont les plus couramment utilisées avec Laravel.
+
+MVC Architecture : Comprendre le concept de Modèle-Vue-Contrôleur (MVC) et savoir comment l'appliquer efficacement dans le développement Laravel.
+
+Routes : Savoir définir et gérer les routes dans Laravel pour diriger les requêtes HTTP vers les actions appropriées.
+
+Middleware : Comprendre le concept de middleware dans Laravel et savoir comment l'utiliser pour gérer les requêtes HTTP.
+
+Blade Templating Engine : Connaître Blade, le moteur de modèle intégré de Laravel, pour créer des vues dynamiques de manière efficace.
+
+Validation : Savoir valider les données utilisateur avec les outils de validation intégrés de Laravel.
+
+Authentification et autorisation : Comprendre les concepts d'authentification et d'autorisation dans Laravel, et savoir comment les mettre en œuvre.
+
+APIs : Avoir des connaissances sur la création et la consommation d'APIs dans Laravel, notamment avec Laravel Passport pour l'authentification OAuth2.
+
+Testing : Être capable d'écrire des tests unitaires et des tests d'intégration pour garantir la qualité du code.
+
+Sécurité : Connaître les meilleures pratiques de sécurité web et savoir comment les appliquer dans le contexte de développement Laravel.
+
+Optimisation des performances : Savoir optimiser les performances des applications Laravel en utilisant des techniques telles que la mise en cache, l'optimisation de la base de données, etc.
+
+Déploiement : Avoir une compréhension des différents environnements de déploiement (local, développement, production) et savoir comment déployer des applications Laravel de manière efficace.
+
+Version Control Systems : Être à l'aise avec les systèmes de contrôle de version comme Git pour gérer efficacement le code source.
