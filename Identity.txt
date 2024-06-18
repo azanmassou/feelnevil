@@ -252,3 +252,24 @@ Optimisation des performances : Savoir optimiser les performances des applicatio
 Déploiement : Avoir une compréhension des différents environnements de déploiement (local, développement, production) et savoir comment déployer des applications Laravel de manière efficace.
 
 Version Control Systems : Être à l'aise avec les systèmes de contrôle de version comme Git pour gérer efficacement le code source.
+
+Services
+
+Création de sites web personnalisés
+Développement d'applications web robustes
+Intégration e-commerce
+Gestion de contenu
+Optimisation des performances et sécurité avancée
+Maintenance et support technique
+
+Développement de sites web personnalisés : Création de sites web uniques et adaptés à vos besoins spécifiques, en mettant en œuvre des fonctionnalités sur mesure et une interface utilisateur intuitive.
+
+Création d'applications web robustes : Développement d'applications web puissantes et évolutives, garantissant une performance optimale et une expérience utilisateur exceptionnelle.
+
+Intégration de solutions e-commerce : Mise en place de boutiques en ligne sécurisées et conviviales, offrant un processus de paiement fluide et des fonctionnalités de gestion de produits avancées.
+
+Mise en place de systèmes de gestion de contenu : Configuration de systèmes CMS flexibles et faciles à utiliser, permettant une gestion efficace du contenu et une mise à jour régulière du site.
+
+Optimisation des performances et sécurité avancée des sites : Amélioration des performances du site pour une vitesse de chargement optimale, tout en assurant une protection robuste contre les menaces en ligne et les cyberattaques.
+
+Maintenance et support technique régulier : Offre d'un suivi continu et d'une assistance technique pour garantir le bon fonctionnement et la sécurité à long terme de votre site web.
