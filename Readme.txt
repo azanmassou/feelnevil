@@ -21,7 +21,7 @@ Pour discuter de vos besoins en développement web ou pour toute autre question,
 
 - **Email** : contact.feelnevil@gmail.com
 - **Téléphone** : +229 9093-8675
-- **Réseaux sociaux** : [LinkedIn](https://www.linkedin.com/in/votrenom)
+- **Réseaux sociaux** : [LinkedIn](http://www.linkedin.com/in/feelnevil)
 
 ---
 
